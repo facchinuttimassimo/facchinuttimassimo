@@ -1,4 +1,10 @@
-## Hi there 👋
+# Massimo Facchinutti
+### UNIUD Student
+
+I hold a Bachelor's degree in Economics and I am currently pursuing a Master's in Economics. I enjoy working with data and have good experience in **R**, with growing skills in **Python**.  
+This GitHub is where I build my portfolio of personal projects, showcasing analyses and applications in R and Python.  
+
+📊 Aspiring **Data Analyst / Data Scientist**
 
 <!--
 **facchinuttimassimo/facchinuttimassimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
